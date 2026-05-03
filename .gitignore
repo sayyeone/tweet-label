@@ -1,3 +1,9 @@
 data_label.csv
 data_unlabel.csv
 template.csv
+hasil_prediksi_unlabel.csv
+data_preprocessed.csv
+indobert_best.pt
+svm_baseline.pkl
+tfidf_vectorizer.pkl
+label_encoder.pkl
